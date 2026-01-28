@@ -40,4 +40,19 @@
 - Synced slicers (Year, Season, District) with Page 01 for consistent filtering
 - Applied consistent formatting and color standards across all visuals
 
+#### Day 4 – Forecast & Performance Analysis Dashboard (Page 03)
+- Designed Page 03: **Forecast & Performance Analysis**
+- Added KPI cards to summarize:
+  - Total Production Gap
+  - Average Production Gap Percentage
+  - Average Forecast Accuracy
+- Built a line chart comparing Actual vs Predicted paddy production over time
+- Added a filled map to visualize district-wise production gaps
+- Created a bar chart to highlight production gaps by district
+- Added a donut chart to classify forecast performance
+  (Above Expected, As Expected, Below Expected)
+- Included a key insights text box to summarize forecast reliability and gaps
+- Synced slicers across all dashboard pages for consistent filtering
+- Applied consistent formatting and color standards across the dashboard
+
 
