@@ -27,3 +27,17 @@
 - Added interactive slicers for Year, Season, and District
 - Applied a consistent color theme and formatting for clarity and readability
 
+#### Day 3 – Area & Yield Analysis Dashboard (Page 02)
+- Designed Page 02: **Paddy Cultivation Area & Yield Analysis**
+- Added KPI cards for:
+  - Total Area Sown
+  - Total Area Harvested
+  - Average Yield
+- Built a clustered column chart to compare Area Sown vs Area Harvested over time
+- Created a stacked column chart showing scheme-wise cultivated area
+  (Major, Minor, and Rainfed schemes)
+- Added a line chart to visualize average yield trends across years
+- Synced slicers (Year, Season, District) with Page 01 for consistent filtering
+- Applied consistent formatting and color standards across all visuals
+
+
