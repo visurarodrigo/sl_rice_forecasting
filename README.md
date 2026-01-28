@@ -343,22 +343,6 @@ sl_rice_forecasting/
 
 ---
 
-## 🔮 Future Enhancements
-
-### Short-term Roadmap
-- [ ] **Weather Integration**: Incorporate rainfall and temperature data
-- [ ] **Price Forecasting**: Predict market prices alongside production
-- [ ] **Real-time Dashboard**: Deploy interactive web dashboard using Streamlit/Dash
-- [ ] **API Development**: RESTful API for model predictions
-
-### Long-term Goals
-- [ ] **Deep Learning Models**: LSTM/GRU for time-series forecasting
-- [ ] **Satellite Imagery**: Use remote sensing for crop monitoring
-- [ ] **Mobile Application**: Farmer-facing app for yield predictions
-- [ ] **Multi-crop Expansion**: Extend to other agricultural products
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
