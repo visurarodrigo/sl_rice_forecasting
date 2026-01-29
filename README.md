@@ -317,7 +317,7 @@ sl_rice_forecasting/
 **KPIs**: Production Gap | Forecast Accuracy | Gap Percentage  
 **Visuals**: Actual vs Predicted trends, District-level gap heatmap, Performance metrics
 
-![Forecast and Performance](dashboard/Screenshots/FORECAST%20AND%20PERFORMANCE%20ANALYSIS%20.jpg)
+![Forecast and Performance](dashboard/Screenshots/FORECAST%20AND%20PERFORMANCE%20ANALYSIS.jpg)
 
 ---
 
