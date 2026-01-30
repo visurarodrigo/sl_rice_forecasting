@@ -8,25 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Project Architecture](#project-architecture)
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Dashboard Previews](#dashboard-previews)
-- [Model Performance](#model-performance)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
----
-
 ## 🎯 Overview
 
 This project provides a complete end-to-end solution for analyzing and forecasting paddy (rice) production in Sri Lanka. Leveraging **20 years of historical data** (2004-2023) covering both Maha and Yala cultivation seasons, the project delivers actionable insights through:
