@@ -34,6 +34,11 @@ def train():
         return
 
     X, y = load_and_preprocess(DATA_PATH)
+
+    # Save the exact column names the model expects after One-Hot Encoding
+    COLUMNS_PATH = os.path.join(BASE_DIR, 'models', 'model_columns.pkl')
+    joblib.dump(list(X.columns), COLUMNS_PATH)
+    print(f"💾 Model columns saved to: {COLUMNS_PATH}")
     
     # Split
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
